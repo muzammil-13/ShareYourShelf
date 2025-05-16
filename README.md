@@ -1,5 +1,5 @@
 # 📚 ShareYourShelf – Give Books, Grow Futures
-
+![ShareYourShelf logo](public/shareyourshelf-logo.png)
 **ShareYourShelf** is a lightweight web app that lets students and families **donate or request used school books** — reducing educational costs, preventing book waste, and supporting underprivileged learners.
 
 This project was inspired by a humble public WhatsApp message — now built as a digital movement to make sharing simple.
