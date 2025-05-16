@@ -17,12 +17,12 @@ This project was inspired by a humble public WhatsApp message — now built as a
 
 ## 🛠️ Tech Stack
 
-| Layer        | Tech                  |
-|--------------|------------------------|
-| Frontend     | React (Vite) + Tailwind CSS |
-| Backend/DB   | Firebase Firestore     |
-| Hosting      | Vercel or Netlify      |
-| Messaging    | WhatsApp Deep Links    |
+| Layer      | Tech                        |
+| ---------- | --------------------------- |
+| Frontend   | React (Vite) + Tailwind CSS |
+| Backend/DB | Firebase Firestore          |
+| Hosting    | Vercel or Netlify           |
+| Messaging  | WhatsApp Deep Links         |
 
 ---
 
@@ -33,7 +33,7 @@ This project was inspired by a humble public WhatsApp message — now built as a
 ```bash
 git clone https://github.com/yourusername/shareyourshelf.git
 cd shareyourshelf
-````
+```
 
 ### 2. Install Dependencies
 
@@ -110,9 +110,9 @@ const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
 
 ### Phase 1 – MVP
 
-* [] Donate Book form (write to Firestore)
-* [] View/Search Book listings
-* [] WhatsApp contact integration
+* [ ] Donate Book form (write to Firestore)
+* [ ] View/Search Book listings
+* [ ] WhatsApp contact integration
 * [ ] Deploy public version on Vercel
 
 ### Phase 2 – Community Features
@@ -145,5 +145,7 @@ This project is open source under the [MIT License](LICENSE).
 > ShareYourShelf is built to solve a simple but overlooked problem — helping families exchange books with dignity and ease.
 > Built by [Muzammil Ibrahim](https://github.com/muzammil-13) with the vision of tech-for-good.
 > Let's turn books into bridges. 📖🤝
+
+```
 
 ```
